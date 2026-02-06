@@ -1,4 +1,4 @@
-# Enterprise AI Discovery Kit → How AI gets adopted
+# Enterprise AI Discovery Kit → Why the AI system exists
 
 Successful AI programs start with **clarity**, not technology.
 
