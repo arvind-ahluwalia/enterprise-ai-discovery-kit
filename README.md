@@ -16,6 +16,19 @@ Most enterprise AI initiatives fail due to:
 Discovery makes these visible **before** build and scale.
 
 ## Discovery pillars
+flowchart LR
+
+    A[Business Ambiguity] --> B[Discovery & As-Is Analysis]
+    B --> C[Decision & Value Mapping]
+    C --> D[To-Be Operating Model]
+    D --> E[Governance & Controls Design]
+    E --> F[Implementation & Pilot]
+    F --> G[Adoption & Measurement]
+    G --> H[Scale or Pivot]
+
+    H -->|Learnings| B
+
+
 ### As-Is understanding
 - Current decision flows
 - Manual workarounds and shadow processes
